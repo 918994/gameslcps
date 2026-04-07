@@ -62,41 +62,7 @@ Lee 🍻
 * [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play it now!](http://hakim.se/experiments/html5/coil/)
 * [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy Bird clone in JavaScript and Canvas2D API.
 * [hurry!](https://github.com/hughsk/ludum-dare-27) - Small but speedy arcade shooter. [Play it now!](http://hughsk.io/ludum-dare-27/)
-
-* [I Spy A Ghost](https://github.com/OmarShehata/I-Spy-A-Ghost) - an experimental p2p multiplayer game made in HTML5/Phaser using WebRTC. [Play it now!](http://omarshehata.me/html/ludum/)
-* [Jekyll & Hyde Collide](https://github.com/awesome-interactive/game-off-2013) - Multi-layered infinite side-scroller. [Play it now!](http://awesome-interactive.github.io/game-off-2013/ExportedGame.html)
-* [JumpSuit](https://github.com/KordonBleu/jumpsuit) - a multiplayer space shooter set in a wrapped universe. [Play it now!](http://jumpsuit.space/)
-* [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - Marble game for learning three.js.
-* [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements.
-* [Mega Girl](https://github.com/ddionisio/game-off-2013) - Megaman inspired game. [Play it now!](http://www.renegadeware.com/web_games/megagirl/)
-* [Masonry JavaScript Tetris Clone](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) - Tetris clone created using HTML5/JavaScript/Phaser.
-* [Mode](https://github.com/AdamAtomic/Mode) - Small(but sadly not that simple) demo game built on the Flixel framework. [Play it now!](http://www.adamatomic.com/mode/)
-* [Monster Wants Candy](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) - Simple HTML5 game created with Phaser 2.0.7. [Play it now!](http://candy-demo.enclavegames.com/)
-* [Newton Adventure](https://github.com/devnewton/newton_adventure) - Play Newton, a very special hero who has the power to change gravity direction! [Play it now!](http://play.bci.im/newton_adventure/)
-* [Octocat Jump](https://github.com/ogoshen/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://ogoshen.github.io/game-off-2012/)
-* [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play it now!](http://arcade.lostdecadegames.com/onslaught_arena/)
-* [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play it now!](http://khele.in/pappu-pakia/)
-* [Phaser Snake](https://github.com/gamedolphin/javascript_snake) - JavaScript version of the snake game, created using the Phaser Engine.
-* [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demostrates the power of the Entity game engine.
-* [PolyBranch](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? [Play it now!](http://gregbatha.com/branches/)
-* [Protocol 390](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change.
-* [Raging Gardens](https://github.com/petarov/game-off-2012) - Javascript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often.
-* [Release Cycles](https://github.com/RothschildGames/release-cycles) - Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle.
-* [Save The Forest](https://github.com/softvar/save-the-forest) - Save the burning forest! [Play it now!](http://js13kgames.com/games/save-the-forest/index.html)
-* [Ski Free](https://github.com/basicallydan/skifree.js) - JavaScript port of the classic PC Game, Skifree. [Play it now!](http://basicallydan.github.com/skifree.js)
-* [Snake](https://github.com/jrgdiz/snake) - Clone of the classic Snake game. [Play it now!](http://diz.es/snake/)
-* [Snake_new](https://github.com/RabiRoshan/snake_game) - Classic nokia snake game using web. [Play it now!](https://rabiroshan.github.io/snake_game/)
-* [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - A classic shoot'em up space shooter build in HTML5 with multiplayer. [Play it now!](http://couchfriends.com/games/5)
-* [Spashal](https://github.com/MrRar/spashal) - Danger lurks around every corner in space. [Play it now!](http://mrrar.github.io/spashal/)
-* [Square Off!](https://github.com/ScriptaGames/SquareOff/) - multiplayer 1v1 air-hockey style game, place squares to deflect the ball. [Play it now!](http://sqoff.com/)
 * [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - Scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play it now!](http://maettig.com/code/canvas/starship-sorades-13k/)
-* [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developped with PhaserJS Framework.
-* [Space Invaders](https://github.com/StrykerKKD/SpaceInvaders) - Remake of Space Invaders in require.js. [Play it now!](http://strykerkkd.github.io/SpaceInvaders/)
-* [Super Mario Bros](https://github.com/martindrapeau/backbone-game-engine) - Super Mario Bros level one written with Backbone Game Engine. [Play it now!](http://martindrapeau.github.io/backbone-game-engine/super-mario-bros/index.html)
-* [Survivor](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play it now!](http://www.schillmania.com/survivor/)
-* [WPilot](https://github.com/jfd/wpilot) - A browser-based remake of the famous XPilot game, built with NodeJS and HTML5
-* [zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) - Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over".
-* [FullScreenMario](https://github.com/FullScreenShenanigans/FullScreenMario/) – a free HTML 5 remake of Super Mario Bros with additional features.
 
 ## FPS
 
